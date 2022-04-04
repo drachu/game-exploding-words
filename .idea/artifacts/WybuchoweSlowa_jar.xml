@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="WybuchoweSlowa:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/WybuchoweSlowa_jar</output-path>
+    <root id="archive" name="WybuchoweSlowa.jar">
+      <element id="module-output" name="WybuchoweSlowa" />
+    </root>
+  </artifact>
+</component>
